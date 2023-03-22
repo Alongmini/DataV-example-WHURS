@@ -4,15 +4,15 @@
 
 将本项目下载后，需要先安装前端依赖，在cmd进入项目根目录，输入
 
-### `npm install`
+ `npm install`
 
 如果出现错误，可以输入
 
-### `npm install --force`
+ `npm install --force`
 
 依赖安装之后，即可开始项目的运行，输入
 
-### `npm start`
+ `npm start`
 
 就可以在默认浏览器查看
 
